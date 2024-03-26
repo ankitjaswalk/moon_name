@@ -11,7 +11,7 @@ html,body{
 #bg{
     height: 100%;
     width: 100%;
-    background-image: url(moon.jpg);
+    background-image: url(moon.webp);
     background-size: cover;
 }
 
@@ -28,5 +28,5 @@ h1{
 }
 @font-face {
     font-family: buttermilk;
-    src: url(Buttermilk.otf);
+    src: url(Buttermilk.woff2);
  }
